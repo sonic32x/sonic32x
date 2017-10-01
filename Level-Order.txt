@@ -1,0 +1,12 @@
+1 - South Island
+2 - Chemical Calamity
+4 - Sand Valley Zone
+5 - Casino Night Zone
+6 - Stardust Speedway Zone
+7 - Lacerated Lockdown
+8 - Cybernetic Citadel
+9 - Scrambled Egg Zone
+10 - Shockwave Station
+11 - Tech Tremor
+12 - Sky City
+13 - Cosmic Conundrum
